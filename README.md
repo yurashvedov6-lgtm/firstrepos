@@ -6,3 +6,6 @@ git add <name file>
 git status                ;проверка состояния репозитория 
 git commit -m "comment"   ; создание коммита
 git push                  ; отправка на GitHub
+
+Сегодня 14.04.2026 г. установил расширение на vs code 
+пытаюсь зарегистрировать capilot
